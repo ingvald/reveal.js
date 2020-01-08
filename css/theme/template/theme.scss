@@ -83,6 +83,7 @@ body {
 .reveal iframe {
 	max-width: 95%;
 	max-height: 95%;
+	max-height: calc(50vh);
 }
 .reveal strong,
 .reveal b {
